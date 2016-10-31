@@ -4,7 +4,6 @@ using Bll.Core.Interfaces;
 using BLL.Core.Entities;
 using BLL.Infrastructure.CustomExceptions;
 using BLL.Services.Common;
-using DAL.Interfaces;
 using DAL.Interfaces.Repositories;
 using DAL.Models;
 
