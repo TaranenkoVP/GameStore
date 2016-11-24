@@ -1,0 +1,1 @@
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="GameStore.WEB.MVC.MvcApplication" Language="C#" %>
